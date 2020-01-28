@@ -6,7 +6,7 @@ A collection of code excerpts that may come in handy during development.
   * Adds tabs to a unstylized JSON file to make it more human readable
   
 * **createSampleJSON.py**
-  * Creates a list of mockup JSON data, I often use this as a placeholder for the return of an API call if the required endpoint has yet to be solidified.
+  * Creates a list of mockup JSON data, I often use this as a placeholder for the return of an API call if the required endpoint has yet to be solidified
   
 ## misc
 * **sign-combs.py**

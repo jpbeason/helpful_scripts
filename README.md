@@ -3,7 +3,7 @@ A collection of code excerpts that may come in handy during development.
 
 
 * **sign-combs.py**
-  * A script that generates all possible outputs of a "combinations with replacement" problem, great for generating all possible options a user may specify for an item in an e-commerce setting.
+  * A script that generates all possible outputs of a "combinations with replacement" problem, great for generating all possible option combinations a user may specify for an item in an e-commerce setting.
   
 * **prettyJSON.py**
   * Adds tabs to a unstylized JSON file to make it more human readable
